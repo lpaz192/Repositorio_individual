@@ -11,7 +11,9 @@ Estado = 1=disponible
 """
 
 # Funciones
-
+"""
+def ordenar(matriz):
+"""
 # Funciones CRUD
 def agregar(matriz):
     aux=0
